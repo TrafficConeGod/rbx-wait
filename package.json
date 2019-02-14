@@ -1,0 +1,20 @@
+{
+  "name": "rbx-wait",
+  "version": "1.0.0",
+  "description": "A better wait function for roblox-ts.",
+  "main": "out/init.lua",
+  "typings": "out/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rbx-services": "^1.0.20"
+  },
+  "keywords": [],
+  "author": "TrafficConeGod",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrafficConeGod/rbx-wait"
+  }
+}
