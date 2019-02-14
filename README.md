@@ -1,5 +1,5 @@
 # rbx-wait
-Better wait function for roblox-ts.
+A better wait function for roblox-ts.
 
 ## Examples
 ```ts
